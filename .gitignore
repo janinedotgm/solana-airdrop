@@ -14,5 +14,6 @@ dist/
 logs/
 *.log
 
-# Ignore dev-wallet.json
+# Ignore wallets
 dev-wallet.json
+wba-wallet.json
