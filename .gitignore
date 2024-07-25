@@ -15,5 +15,4 @@ logs/
 *.log
 
 # Ignore wallets
-dev-wallet.json
-wba-wallet.json
+wallets/*
